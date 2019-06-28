@@ -5,3 +5,5 @@ My CPLD study
 http://www.waveshare.net/Left_Column/ALTERA_PLD_Device.htm  
 MAX Ⅱ: EPM1270  
 Cyclone Ⅲ: EP3C16  
+
+## 深入浅出玩转FPGA  
